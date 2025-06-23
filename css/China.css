@@ -2,3 +2,22 @@ h1{
     border-bottom:solid 6px #dddd00;
     color: #dd0000;
 }
+.dish {
+  display: flex;
+  align-items: flex-start;
+  gap: 20px;
+  margin-bottom: 40px;
+}
+
+.dish-text {
+  flex: 1;
+}
+
+.dish-image img {
+    display: block; 
+    max-width: 300px;
+    width: 100%;
+  height: auto;
+  border: 1px solid #ddd;  
+  border-radius: 4px;
+}
