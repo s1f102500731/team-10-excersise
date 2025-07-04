@@ -1,23 +1,19 @@
 h1{
-  border-bottom:solid  ;
+  background-color: #ff7f7f;
+  border-left:solid medium #ffff00;
+  border: solid 4px #ff0000;
   color: #333333;
 }
 
 body {
-  background-color: #ff9999;
+  background-color: #ffe5e5;
 }
-
 .a {
   background-color: #ffff99;
+  border: solid 4px #ffff00;
   padding: 10px;
   font-size:  30px;;
   color: #333333;
-}
-
-.start {
-  background-color: #ff7f7f;
-  padding-left: 20px;
-  margin: 50px;
 }
 
 .dish {
@@ -43,6 +39,7 @@ body {
 p {
   font-size: 20px;
   background-color: #ffcc99;
+  border: solid 4px #ff7f00;
   color: #333333;
   padding: 30px;
 }
