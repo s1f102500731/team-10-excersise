@@ -1,8 +1,12 @@
+body{
+    background-color: rgb(246, 230, 202);
+}
+
 h1{
     font-size: 50px;
     font-style: oblique;
     background-color: rgb(255, 255, 188);
-    border-left:solid medium rgb(255, 166, 0);
+    border-left:solid thick rgb(255, 153, 0);
 }
 
 h2{
