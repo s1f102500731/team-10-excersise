@@ -1,0 +1,19 @@
+h1{
+    font-size: 50px;
+    font-style: oblique;
+    background-color: rgb(255, 255, 188);
+    border-left:solid medium rgb(255, 166, 0);
+}
+
+h2{
+    font-size: 30px;
+    border-bottom: solid medium red;
+}
+
+p{
+    font-size: 20px;
+}
+
+img{
+    width: 500px;
+}
